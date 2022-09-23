@@ -1,0 +1,26 @@
+{
+  "name": "sample1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "debug": "^4.3.4",
+    "dotenv": "^16.0.2",
+    "mongoose": "^6.5.3",
+    "mongoose-timestamp": "^0.6.0",
+    "mysql2": "^2.3.3",
+    "node-cron": "^3.0.2",
+    "node-xlsx": "^0.21.0",
+    "restify": "^8.6.1",
+    "restify-errors": "^8.0.2",
+    "restify-router": "^0.6.2",
+    "sequelize": "^6.11.0"
+  }
+}
